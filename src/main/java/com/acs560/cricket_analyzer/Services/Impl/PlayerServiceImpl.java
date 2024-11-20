@@ -21,7 +21,7 @@ import com.acs560.cricket_analyzer.model.Player;
 @Service
 public class PlayerServiceImpl implements PlayerServices {
 
-//	@Autowired
+	@Autowired
 	PlayerRepository br;
 
 	@Override
