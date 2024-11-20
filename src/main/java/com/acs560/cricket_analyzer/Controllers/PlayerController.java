@@ -26,7 +26,7 @@ import lombok.NoArgsConstructor;
 public class PlayerController {
 
 	
-//	@Autowired
+	@Autowired
 	private PlayerServices playerServices;
 	
 	
